@@ -1,3 +1,5 @@
+[![Docker Repository on Quay.io](https://quay.io/repository/freshbooks/rabbitmq/status "Docker Repository on Quay.io")](https://quay.io/repository/freshbooks/rabbitmq)
+
 # About this Repo
 
 This is the Git repo of the official [Docker image for rabbitmq](https://registry.hub.docker.com/_/rabbitmq/)  maintained by Docker, Inc. See the
